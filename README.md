@@ -1,0 +1,2 @@
+# AllState-Purchase-Prediction-Challenge
+The All State Insurance dataset is about the customer interaction history, information regarding policy and cost regarding the various coverage options for a car insurance plan.  Using a customer’s shopping history, to predict what policy they will end up choosing?The goal of this project is to predict exact combination of coverage options(A through G)  the customer would choose while purchasing the plan – It is a Multinomial Classification Problem
